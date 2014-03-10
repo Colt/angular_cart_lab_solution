@@ -57,7 +57,7 @@ Cart management becomes a bit more complex. You won't get away with simply addin
 		quantity: <how many>
 	} 
 
-Before adding a book, you need to find out if it's already in the cart, and if so, increase it's quantity.
+Before adding a book, you need to find out if it's already in the cart, and if so, increase its quantity.
 
 http://underscorejs.org/ comes in handy for 'ruby like' manipulation of collections / arrays.
 
