@@ -1,0 +1,79 @@
+.container{
+  margin-top: 30px;
+}
+
+.filter{
+  font-size: medium;
+  margin: 5px;
+}
+
+.book{
+  margin: 3px;
+  height: 220px;
+  width: 160px;
+  border: solid 1px black;
+}
+.book-title {
+  font-size: medium;
+  margin-bottom: 2px;
+}
+
+.book-author {
+  font-size: small;
+  margin-bottom: 3px;
+}
+
+.book-image {
+  margin-left: 5px;
+  width: 100px;
+  height: 135px;
+}
+
+.cart-button{
+  margin: 5px;
+}
+
+.cart-button .price{
+  margin: 5px;
+  font-weight:bold;
+}
+
+.add-to-cart {
+  margin-left: 5px;
+  width: 100px;
+  height: 135px;
+}
+
+.cart{
+  margin: 5px;
+  width: 400px;
+  border: solid 2px green;
+}
+
+table.carttable {
+  font-family: verdana,arial,sans-serif;
+  font-size:11px;
+  color:#333333;
+  border-width: 1px;
+  border-color: #999999;
+  border-collapse: collapse;
+}
+table.carttable th {
+  background:#b5cfd2;
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #999999;
+}
+
+table.carttable td {
+  background:#dcddc0;
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #999999;
+}
+
+.cart-total{
+  font-weight:bold;
+}
